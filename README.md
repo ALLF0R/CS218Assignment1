@@ -4,5 +4,9 @@ Git hub created and enquiring all possibilities and its uses.
 Created New Project.
 Created New Jframe For LaunchMenu.
 using Import Library called Java Swing.
+Gui Created.
+Creating Server Client Connection.
+Client Server connection created.
+
 
 
